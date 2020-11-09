@@ -1,2 +1,7 @@
 more great stuff here
 Practice doing this on GitHub
+we are cloning
+remote to local
+making some changes
+pushing it back to
+remote repository
